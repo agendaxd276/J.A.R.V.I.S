@@ -32,3 +32,7 @@ f)import os:
 By default, It saved in Python Package(os-operating system
 g)import smtplib:
 For sending gmail by voice use smtplib
+
+
+# Completion Certificate
+<img src="https://github.com/agendaxd276/J.A.R.V.I.S/blob/master/JARVIS_Certificate.jpeg">
